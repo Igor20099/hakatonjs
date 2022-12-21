@@ -1,0 +1,17 @@
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+    border: 1px solid #000;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+.square_color_green {
+    background-color: green;
+}
+
+.square-row {
+    display: flex;
+}
